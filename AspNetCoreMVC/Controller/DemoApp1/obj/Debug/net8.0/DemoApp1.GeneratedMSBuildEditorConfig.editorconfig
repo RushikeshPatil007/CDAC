@@ -1,0 +1,35 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoApp1
+build_property.RootNamespace = DemoApp1
+build_property.ProjectDir = /home/cdac/Foundations/DotNet/AspNetCoreMVC/Controller/DemoApp1/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/cdac/Foundations/DotNet/AspNetCoreMVC/Controller/DemoApp1
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/cdac/Foundations/DotNet/AspNetCoreMVC/Controller/DemoApp1/Views/Hello.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/cdac/Foundations/DotNet/AspNetCoreMVC/Controller/DemoApp1/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/cdac/Foundations/DotNet/AspNetCoreMVC/Controller/DemoApp1/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/cdac/Foundations/DotNet/AspNetCoreMVC/Controller/DemoApp1/Views/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2VsY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
