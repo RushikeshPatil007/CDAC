@@ -1,0 +1,21 @@
+create table employee{
+id int(3) primary key not null,
+first_name varchar(100) default null,
+last_name varchar(100) default null,
+username varchar(100) default null,
+password varchar(100) default null,
+address varchar(100) default null,
+contact varchar (100) default null
+) Engine =InnoDB default charset=utf8mb4 collate=utf8mb4_0900_ai_ci;
+
+create table department(
+dept_id int primary key,
+dept_name varchar(100) default null,
+location varchar(100) default null
+);
+
+create table employee(
+emp_id int primary key ,
+emp_name varchar(100) default null,
+dept_id int foreign key (dept_id) references department(dept_id)
+);
